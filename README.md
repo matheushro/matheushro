@@ -15,5 +15,5 @@ Olá! Eu sou um desenvolvedor Full Stack com mais de 2 anos de experiência em c
 
 Se você está interessado em saber mais sobre meus projetos ou discutir oportunidades de colaboração, entre em contato!
 
-- [LinkedIn](www.linkedin.com/in/matheus-oliveira-127643223)
+- [LinkedIn](https://www.linkedin.com/in/matheus-oliveira-127643223)
 - [Portfólio](https://matheushro.com)
